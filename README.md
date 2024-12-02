@@ -8,4 +8,4 @@ The exercises will be done in Python.
 
 Completed:
 - Day 1
-
+- Day 1, 1st part
