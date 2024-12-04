@@ -4,9 +4,10 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 https://adventofcode.com/2024
 
-The exercises will be done in Python.
+The exercises will be done in Python or C
 
 Completed:
 - Day 1
 - Day 2, 1st part
 - Day 3, 1st part
+- Day 4, 1st part in C
